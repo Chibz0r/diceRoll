@@ -1,0 +1,28 @@
+{
+  "name": "diceroll",
+  "version": "1.0.0",
+  "description": "dice rolling app for boardgames or tabletop rpg's",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chibz0r/diceRoll.git"
+  },
+  "keywords": [
+    "dice",
+    "rolling",
+    "d20",
+    "boardgames",
+    "tabletop",
+    "rpg",
+    "dnd"
+  ],
+  "author": "chibz0r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chibz0r/diceRoll/issues"
+  },
+  "homepage": "https://github.com/Chibz0r/diceRoll#readme"
+}
