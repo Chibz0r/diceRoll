@@ -1,0 +1,9 @@
+button {	
+	padding: 1em;
+	margin-right: 1em !important;
+}
+
+#result {
+	font-size: 2em;
+	text-decoration: bold;
+}
